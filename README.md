@@ -41,6 +41,10 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 ## 🧪 O que você vai encontrar neste GitHub
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=22&center=true&vCenter=true&width=700&lines=Dados+transformados+em+insights+para+decisão+pública;Business+Intelligence+%7C+Análise+de+Dados+%7C+Tecnologia" />
+</p>
+
 🔹 **Análise de Dados com Python**
 - Pandas, tratamento e limpeza de dados  
 - SQL aplicado a cenários reais  
@@ -69,9 +73,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=22&center=true&vCenter=true&width=700&lines=Dados+transformados+em+insights+para+decisão+pública;Business+Intelligence+%7C+Análise+de+Dados+%7C+Tecnologia" />
-</p>
+
 
 ## 📈 Minha jornada técnica
 
