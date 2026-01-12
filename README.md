@@ -48,7 +48,8 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 🔹 **Análise de Dados com Python**
 - Pandas, tratamento e limpeza de dados  
 - SQL aplicado a cenários reais  
-- Scripts focados em produtividade  
+- Scripts focados em produtividade
+- https://github.com/rafaeldataanalytics/api_gov_empresa_lucro_real.git
 
 🔹 **Back-end (em evolução constante)**
 - Lógica de negócios  
