@@ -39,7 +39,7 @@ Aqui estão alguns dos meus projetos mais recentes focados em **dados e backend*
 Se quiser trocar ideia, colaborar em projetos ou conversar sobre oportunidades de desenvolvimento e dados, me encontre por aqui:
 
 🔗 **GitHub:** https://github.com/rafaeldataanalytics  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rafaeldataanalytics  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/rafaeldataanalytics  ](https://www.linkedin.com/in/rafael-da-silva-rfs/)
 📧 **Email:** rafaeldataanalytics@gmail.com
 
 ---
