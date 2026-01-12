@@ -59,7 +59,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - Refatorações reais  
 
 ---
-
+<!--
 ## 📌 Projetos Âncora (em destaque)
 
 🚧 *Esta seção será atualizada conforme novos projetos evoluem*
@@ -69,7 +69,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - 🌐 **API REST com Python (em breve)**
 
 ---
-
+-->
 ## 📈 Minha jornada técnica
 
 ```text
