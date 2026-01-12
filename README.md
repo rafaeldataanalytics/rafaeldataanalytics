@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer+em+Construção;Data+Analytics+com+Python+e+SQL;Aprendizado+contínuo+%7C+Projetos+reais" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Data+Analytics+com+Python+e+SQL+Power_BI;Backend+Developer+em+Construção;Aprendizado+contínuo+%7C+Projetos+reais" />
 </p>
-
 ---
 
 ## 👋 Olá, eu sou o Rafael
