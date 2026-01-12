@@ -1,57 +1,80 @@
-# 👋 Olá, eu sou o Rafael!
-
-Sou **Estudante de Análise de Dados e Back-end Developer**, apaixonado por programação em **Python**, bancos de dados **SQL** e ferramentas de análise de dados como **Power BI**.  
-Atualmente focado em **crescer como desenvolvedor back-end**, construir projetos reais, aprender boas práticas e aplicar ciência de dados para resolver problemas do mundo real. 🚀
-
----
-
-## 💻 Tecnologias & Ferramentas
-
-🧠 **Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-
-📊 **Dados & BI:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-
-🛠️ **Outras ferramentas:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer+em+Construção;Data+Analytics+com+Python+e+SQL;Aprendizado+contínuo+%7C+Projetos+reais" />
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 👋 Olá, eu sou o Rafael
 
-Aqui estão alguns dos meus projetos mais recentes focados em **dados e backend**:
+Sou um **desenvolvedor em formação focado em Back-end e Análise de Dados**, construindo minha carreira com **Python, SQL e projetos práticos**.
 
-### 📌 Python & SQL
-🔹 **Análise de Dados Python + SQL**  
-👉 Projeto com leitura de dados, manipulação, consultas SQL e visualização dos resultados usando Python e bibliotecas como `pandas`, `matplotlib` e outros.
-
-### 📌 Automação & Scripts
-🔹 **Scripts Python para automatizar tarefas**  
-👉 Ferramentas para agilizar processos repetitivos, extração e limpeza de dados.
+📌 Aqui você não vai encontrar código “de curso”.
+Você vai encontrar **processo, evolução e aprendizado real**.
 
 ---
 
-## 📫 Contato
+## 🧠 Minha mentalidade como desenvolvedor
 
-Se quiser trocar ideia, colaborar em projetos ou conversar sobre oportunidades de desenvolvimento e dados, me encontre por aqui:
+✔️ Resolver problemas antes de pensar em ferramentas  
+✔️ Código simples > código bonito  
+✔️ Aprender fazendo projetos reais  
+✔️ Evolução constante > perfeição  
 
-🔗 **GitHub:** https://github.com/rafaeldataanalytics  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/rafaeldataanalytics  ](https://www.linkedin.com/in/rafael-da-silva-rfs/)
-📧 **Email:** rafaeldataanalytics@gmail.com
-
----
-
-## ✨ Objetivos
-
-✅ Aprender e dominar backend em Python com foco em boas práticas  
-✅ Construir projetos reais com APIs, bancos de dados e integração de dados  
-✅ Compartilhar conhecimento com a comunidade aberta  
-✅ Tornar meu GitHub um portfólio sólido para oportunidades na área
+> *Programar não é saber tudo. É saber aprender rápido.*
 
 ---
 
-Obrigado por visitar o meu perfil! 🌟  
-Se curtir o conteúdo aqui, não esqueça de deixar uma **estrelinha ⭐** no GitHub! 😉
+## ⚙️ Stack Principal
+
+### 🔥 Linguagens & Dados
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+
+### 📊 Análise de Dados
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🧪 O que você vai encontrar neste GitHub
+
+🔹 **Análise de Dados com Python**
+- Pandas, tratamento e limpeza de dados  
+- SQL aplicado a cenários reais  
+- Scripts focados em produtividade  
+
+🔹 **Back-end (em evolução constante)**
+- Lógica de negócios  
+- Estruturação de projetos  
+- Integração com banco de dados  
+- APIs REST (roadmap)
+
+🔹 **Aprendizado documentado**
+- Código comentado  
+- Melhorias progressivas  
+- Refatorações reais  
+
+---
+
+## 📌 Projetos Âncora (em destaque)
+
+🚧 *Esta seção será atualizada conforme novos projetos evoluem*
+
+- 📊 **Análise de dados com Python + SQL**
+- 🗄️ **Automação e scripts backend**
+- 🌐 **API REST com Python (em breve)**
+
+---
+
+## 📈 Minha jornada técnica
+
+```text
+Fundamentos de Programação     ██████████
+Python                         ██████████
+SQL                            ████████░░
+Power BI                       ███████░░░
+Back-end com APIs              ███░░░░░░░
