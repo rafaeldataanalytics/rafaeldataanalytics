@@ -8,13 +8,6 @@
 ![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
 
 
-<img 
-  src="https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png"
-  alt="WordCloud de Tecnologias"
-  width="600"
-  style="border-radius: 20px;"
-/>
-
 ---
 
 ## 👋 Olá, eu sou o Rafael
