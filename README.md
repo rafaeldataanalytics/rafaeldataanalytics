@@ -3,23 +3,6 @@
 </p>
 ---
 
-## <img width="32" height="32" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" />
- WordCloud de Tecnologias
-
-<img 
-  src="https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png"
-  alt="WordCloud de Tecnologias"
-  width="600"
-  style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);"
-/>
-
-## 🌸 WordCloud de Tecnologias
-
-![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
-
-
----
-
 ## 👋 Olá, eu sou o Rafael
 
 Sou um **desenvolvedor em formação focado em Back-end e Análise de Dados**, construindo minha carreira com **Python, SQL e projetos práticos**.
@@ -63,6 +46,12 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - Pandas, tratamento e limpeza de dados  
 - SQL aplicado a cenários reais  
 - Scripts focados em produtividade
+
+- ## <img width="32" height="32" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" />
+ 🌸 WordCloud de Tecnologias
+
+![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
+
 
 ---
 
