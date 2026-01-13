@@ -3,8 +3,10 @@
 </p>
 ---
 
-## 🌸 WordCloud de Tecnologias
-![WordCloud de Tecnologias](Assets/wordcloud_1.png)
+## WordCloud de Tecnologias
+
+![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
+
 
 
 ---
