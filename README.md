@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=26&center=true&vCenter=true&width=600&lines=Data+Analytics+com+Python+e+SQL+Power_BI;Backend+Developer+em+Construção;Aprendizado+contínuo+%7C+Projetos+reais" />
 </p>
 ---
-## 🚀 Tecnologias & Ferramentas
+## 🧠 WordCloud de Tecnologias
 
-![WordCloud](assets/wordcloud.png)
+![WordCloud](Assets/wordcloud_1.png)
 
 ---
 
