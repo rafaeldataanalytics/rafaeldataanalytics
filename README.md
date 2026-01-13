@@ -84,6 +84,12 @@ Você vai encontrar **processo, evolução e aprendizado real**.
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 </a>
 
+👉
+<a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/PostgreSQL.pdf" target="_blank">
+  <img src="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/Dsa.png" alt="Certificado PostgreSQL" width="180">
+</a>
+
+
 
 ---
 
