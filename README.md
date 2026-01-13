@@ -12,7 +12,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 ---
 
-## 🧠 Minha mentalidade como desenvolvedor
+## 🧠 Minha mentalidade como developer
 
 ✔️ Resolver problemas antes de pensar em ferramentas  
 ✔️ Código simples > código bonito  
