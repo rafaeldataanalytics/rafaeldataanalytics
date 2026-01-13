@@ -54,7 +54,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=20&center=true&vCenter=true&width=700&lines=🔼+Projeto+api+cnpj+Lucro+Real+%7C+Análise+de+Dados+%7C"/>
 </p>
-https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/excel_avancado_turma_jan2026_certificado.pdf
+
 ---
 
 🔹 **Back-end (em evolução constante)**
