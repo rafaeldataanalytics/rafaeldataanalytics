@@ -3,9 +3,16 @@
 </p>
 ---
 
-## WordCloud de Tecnologias
+## <img width="16" height="16" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" />
+ WordCloud de Tecnologias
 
-![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
+<img 
+  src="https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png"
+  alt="WordCloud de Tecnologias"
+  width="600"
+  style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);"
+/>
+
 
 
 ---
