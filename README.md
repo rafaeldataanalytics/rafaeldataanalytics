@@ -89,6 +89,10 @@ Você vai encontrar **processo, evolução e aprendizado real**.
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
 </a>
 
+👉
+<a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/Python_Analise_Dados.pdf" target="_blank">
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
+</a>
 
 
 ---
