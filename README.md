@@ -47,10 +47,6 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - SQL aplicado a cenários reais  
 - Scripts focados em produtividade
 
----
-
-![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
-
 
 ---
 
@@ -74,6 +70,12 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - Código comentado  
 - Melhorias progressivas  
 - Refatorações reais  
+
+---
+
+🔹 **Nuvem de Palavras com Python**
+
+![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
 
 ---
 
