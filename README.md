@@ -13,6 +13,9 @@
   style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);"
 />
 
+## 🌸 WordCloud de Tecnologias
+
+![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
 
 
 ---
