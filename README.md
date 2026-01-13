@@ -79,6 +79,12 @@ Você vai encontrar **processo, evolução e aprendizado real**.
   <img src="https://img.shields.io/badge/Certificado-Excel-blue?style=for-the-badge">
 </a>
 
+👉 
+<a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/excel_avancado_turma_jan2026_certificado.pdf" target="_blank">
+  <img src="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/Dsa.png" alt="Certificado Excel" width="180">
+</a>
+
+
 ---
 
 ## 📌 Projetos Âncora (em destaque)
