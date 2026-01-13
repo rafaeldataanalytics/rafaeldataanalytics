@@ -4,7 +4,7 @@
 ---
 
 ## 🌸 WordCloud de Tecnologias
-![WordCloud](Assets/wordcloud_1.png)
+![WordCloud]([Assets/wordcloud_1.png](https://github.com/rafaeldataanalytics/wordcloud_dados/blob/main/Assets/wordcloud_1.png))
 
 ---
 
