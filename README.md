@@ -3,6 +3,14 @@
 </p>
 ---
 
+## 🧠 Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,git,github,linux,docker" />
+</p>
+
+---
+
 ## 👋 Olá, eu sou o Rafael
 
 Sou um **desenvolvedor em formação focado em Back-end e Análise de Dados**, construindo minha carreira com **Python, SQL e projetos práticos**.
