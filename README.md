@@ -41,9 +41,6 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 ## 🧪 O que você vai encontrar neste GitHub
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=22&center=true&vCenter=true&width=700&lines=Dados+transformados+em+insights+para+decisões;Business+Intelligence+%7C+Análise+de+Dados+%7C+Tecnologia" />
-</p>
 
 🔹 **Análise de Dados com Python**
 - Pandas, tratamento e limpeza de dados  
@@ -51,7 +48,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - Scripts focados em produtividade
 
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=22&center=true&vCenter=true&width=700&lines=Projeto+api+cnpj+Lucro+Real+%7C+Análise+de+Dados+%7C+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=20&center=true&vCenter=true&width=700&lines=Projeto+api+cnpj+Lucro+Real+%7C+Análise+de+Dados+%7C" />
 </p>
 
 - https://github.com/rafaeldataanalytics/api_gov_empresa_lucro_real.git
