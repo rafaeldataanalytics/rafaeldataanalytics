@@ -86,7 +86,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 👉
 <a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/PostgreSQL.pdf" target="_blank">
-  <img src="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/Dsa.png" alt="Certificado PostgreSQL" width="180">
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
 </a>
 
 
