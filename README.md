@@ -55,12 +55,6 @@ Você vai encontrar **processo, evolução e aprendizado real**.
   <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=20&center=true&vCenter=true&width=700&lines=🔼+Projeto+api+cnpj+Lucro+Real+%7C+Análise+de+Dados+%7C"/>
 </p>
 
-👉 [📄 Certificado Excel](https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/excel_avancado_turma_jan2026_certificado.pdf)
-<a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/excel_avancado_turma_jan2026_certificado.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Certificado-Excel-blue?style=for-the-badge">
-</a>
-
-
 ---
 
 🔹 **Back-end (em evolução constante)**
@@ -75,6 +69,14 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - Código comentado  
 - Melhorias progressivas  
 - Refatorações reais  
+
+---
+
+🔹 **Certificados**
+👉 
+<a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/excel_avancado_turma_jan2026_certificado.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Certificado-Excel-blue?style=for-the-badge">
+</a>
 
 ---
 
