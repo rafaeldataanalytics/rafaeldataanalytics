@@ -49,6 +49,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 ---
 
+![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
 
 
 ---
