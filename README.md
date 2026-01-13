@@ -3,7 +3,7 @@
 </p>
 ---
 
-## <img width="16" height="16" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" />
+## <img width="32" height="32" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" />
  WordCloud de Tecnologias
 
 <img 
