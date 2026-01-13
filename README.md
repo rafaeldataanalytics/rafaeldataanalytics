@@ -47,8 +47,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 - SQL aplicado a cenários reais  
 - Scripts focados em produtividade
 
-- ## <img width="32" height="32" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" />
- 🌸 WordCloud de Tecnologias
+- ## <img width="32" height="32" alt="servidor" src="https://github.com/user-attachments/assets/294eed46-dcf0-41e3-99a2-58535cebaca0" /> WordCloud de Tecnologias
 
 ![WordCloud de Tecnologias](https://raw.githubusercontent.com/rafaeldataanalytics/wordcloud_dados/main/Assets/wordcloud.png)
 
