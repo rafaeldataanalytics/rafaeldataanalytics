@@ -81,7 +81,7 @@ Você vai encontrar **processo, evolução e aprendizado real**.
 
 👉 
 <a href="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/excel_avancado_turma_jan2026_certificado.pdf" target="_blank">
-  <img src="https://github.com/rafaeldataanalytics/BI-Aprimoramento-Gestao-Publica/blob/main/certificates/Dsa.png" alt="Certificado Excel" width="180">
+  <img src="https:// src="https://img.shields.io/badge/Certificado-Power Bi-yellow?style=for-the-badge0">
 </a>
 
 
