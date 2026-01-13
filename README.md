@@ -2,14 +2,30 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=26&center=true&vCenter=true&width=600&lines=Data+Analytics+com+Python+e+SQL+Power_BI;Backend+Developer+em+Construção;Aprendizado+contínuo+%7C+Projetos+reais" />
 </p>
 ---
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 
-## 🧠 Tecnologias & Conhecimentos
+texto = """
+Python SQL Power BI Pandas Numpy
+Data Analysis Backend APIs Flask FastAPI
+ETL Web Scraping Git GitHub
+Automação Excel BI Dados
+"""
 
-![WordCloud](assets/wordcloud.png)
+wc = WordCloud(
+    width=1000,
+    height=500,
+    background_color="black",
+    colormap="viridis"
+).generate(texto)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,fastapi,flask,postgres,git,linux" />
-</p>
+plt.figure(figsize=(12,6))
+plt.imshow(wc, interpolation="bilinear")
+plt.axis("off")
+plt.show()
+
+wc.to_file("wordcloud.png")
+
 
 
 ---
