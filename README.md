@@ -3,11 +3,14 @@
 </p>
 ---
 
-## 🧠 Stack Principal
+## 🧠 Tecnologias & Conhecimentos
+
+![WordCloud](assets/wordcloud.png)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,sql,fastapi,flask,postgres,git,linux" />
 </p>
+
 
 ---
 
