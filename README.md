@@ -5,7 +5,7 @@
 
 ## 👋 Olá, eu sou o Rafael
 
-Sou um **desenvolvedor em formação focado em Back-end e Análise de Dados**, construindo minha carreira com **Python, SQL e projetos práticos**.
+Sou um **Analista de Dados em formação **, construindo minha carreira com **Python, SQL e projetos práticos**.
 
 📌 Aqui você não vai encontrar código “de curso”.
 Você vai encontrar **processo, evolução e aprendizado real**.
